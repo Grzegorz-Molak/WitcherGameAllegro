@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1434174562 source:c:\users\grzes\desktop\cpp grzesio\konkurs\never\main.cpp
+	<allegro.h>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1432373934 source:e:\never\main.cpp
+	<allegro.h>
+	<fstream>
+
+1433584188 source:c:\documents and settings\admin\pulpit\never\main.cpp
+	<allegro.h>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1434397416 source:c:\users\grzegorz\desktop\programowanie\c++\programs\konkurs\wiedzmin\main.cpp
+	<allegro.h>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
